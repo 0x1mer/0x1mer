@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">0x1mer</h1>
-<p align="center"><i>I write code because silence is too loud.</i></p>
+<p align="center"><i>Execution is simpler than conversation</i></p>
 
 <p align="center">
   <sub><code>current project →</code> <a href="https://github.com/Ox1mer/mineox">MineOx</a></sub><br/>
@@ -13,5 +13,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,python,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,python" />
 </p>
