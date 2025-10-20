@@ -10,12 +10,8 @@
 - 🌱 I’m currently learning **c++, opengl**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ox1mer](https://github.com/Ox1mer)
-
-- 💬 Ask me about **python, c++, opengl, minecraft-modding**
-
+- 
 - 📫 How to reach me **oximeracer@gmail.com**
-
-- ⚡ Fun fact **Can write bugs faster than I can fix them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
