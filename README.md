@@ -21,7 +21,7 @@
 </ul>
 
 <p align="center">
-  <sub><code>current project →</code> <a href="https://github.com/Ox1mer/mineox">MineOx</a></sub><br/>
+  <sub><code>current project →</code> <a href="https://github.com/0x1mer/MOXEngine">MOXEngine</a></sub><br/>
   <sub><code>contact →</code> <a href="mailto:oximeracer@gmail.com">oximeracer@gmail.com</a></sub>
 </p>
 
